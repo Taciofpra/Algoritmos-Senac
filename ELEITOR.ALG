@@ -2,7 +2,7 @@ Algoritmo "Eleitor"
 // Disciplina   : UC9 ALGORITIMOS
 // Professor   : RODRIGO 
 // Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
+// Autor(a)    : Tácio Ferreira Prado Filho
 // Data atual  : 22/05/2025
 Var
 // Seção de Declarações das variáveis 
